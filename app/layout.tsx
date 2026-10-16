@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     google: "1bHbH5-Aa-wk74CWkqUWQGRmZ6KMkvRetikjf8rLAnQ",
   },
   other: {
-    "google-adsense": "ca-pub-4185652173034768",
+    "google-adsense-account": "ca-pub-4185652173034768",
   },
 };
 
